@@ -1,4 +1,6 @@
 import discord
+import os
+
 token = "MTA3NjQ4NzkyNjc4OTE4NTYyNg.GvjbEv.GC4DuOmt-nJeqvduNGBSDYJ3PIc_x7HHEjxUXs"
 client = discord.Client(intents=discord.Intents.default())
 @client.event
